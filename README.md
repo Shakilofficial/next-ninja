@@ -34,9 +34,11 @@ By the end of this module, you will be able to:
 - Learn how to use React components in Next.js
 - Learn how to use routing in Next.js
 
-## Module Structure
+# Module 02 - Introduction of Core Concepts
 
-The module is divided into the following sections:
+## Introduction
 
-1. Fundamentals of Next.js
-2. Next.js Core Concepts Part-1
+In this module, we will be learning about the core concepts of Next.js,
+including the use of img tag, the use of next/image, and the use of
+next/link. and data fetching using fetch API. We will also learn 
+
