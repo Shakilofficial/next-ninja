@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple Watch Series 8",
+      "description": "The latest Apple Watch with advanced health and fitness features.",
+      "price": 599,
+      "category": "Electronics",
+      "quantity": 50,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "title": "Sony WH-1000XM5 Headphones",
+      "description": "Industry-leading noise cancellation headphones.",
+      "price": 749,
+      "category": "Electronics",
+      "quantity": 25,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "title": "Nintendo Switch OLED",
+      "description": "Portable gaming console with a vibrant OLED display.",
+      "price": 949.99,
+      "category": "Gaming",
+      "quantity": 30,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "title": "Levi's 501 Jeans",
+      "description": "Classic and timeless denim jeans for men.",
+      "price": 79.99,
+      "category": "Clothing",
+      "quantity": 100,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "title": "Nike Air Max 1",
+      "description": "Iconic running shoes with a timeless design.",
+      "price": 140,
+      "category": "Shoes",
+      "quantity": 75,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "title": "Kindle Paperwhite",
+      "description": "Lightweight and waterproof e-reader for book lovers.",
+      "price": 129.99,
+      "category": "Books",
+      "quantity": 40,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "title": "Instant Pot Duo Crisp",
+      "description": "Multi-cooker with air fryer capabilities.",
+      "price": 149.95,
+      "category": "Kitchen",
+      "quantity": 20,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "title": "Lego Star Wars The Mandalorian's N-1 Starfighter",
+      "description": "Detailed LEGO set for Star Wars fans.",
+      "price": 49.99,
+      "category": "Toys",
+      "quantity": 15,
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "title": "Bose SoundLink Mini II",
+      "description": "Portable Bluetooth speaker with powerful sound.",
+      "price": 199,
+      "category": "Electronics",
+      "quantity": 35,
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "title": "GoPro Hero11 Black",
+      "description": "High-quality action camera for capturing incredible footage.",
+      "price": 400,
+      "category": "Electronics",
+      "quantity": 28,
+      "inStock": true
+    }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
