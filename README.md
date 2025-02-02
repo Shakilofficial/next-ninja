@@ -1,6 +1,6 @@
 # next-ninja
 
-Module 01 - Introduction to Next.js
+# Module 01 - Introduction to Next.js
 
 ## Introduction
 
@@ -41,6 +41,7 @@ By the end of this module, you will be able to:
 In this module, we will be learning about the core concepts of Next.js,
 including the use of img tag, the use of next/image, and the use of
 next/link. and data fetching using fetch API. We will also learn how to use metadata in Next.js and usages of import @ alise in Next.js.
+In next js there has pre render and server side rendering(SSR). SSR is used to render the page on the server and send the HTML to the client. Pre render is used to render the page on the client side. SSG is used to generate the static HTML on the server. SSG is used to generate the static HTML on the server.
 
 ## Learning Objectives
 
@@ -59,3 +60,7 @@ By the end of this module, you will be able to:
 - Learn how to use next/link in Next.js
 - Learn how to use data fetching in Next.js
 - Learn how to use relative path and absolute path in Next.js
+- Learn how to use dynamic routing in Next.js
+- Learn how to use dynamic data fetching in Next.js
+- Learn how to use server side rendering in Next.js
+- Learn how to use client side rendering in Next.js
