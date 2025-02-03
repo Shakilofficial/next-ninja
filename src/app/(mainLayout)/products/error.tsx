@@ -1,6 +1,10 @@
 "use client";
-const ErrorPage = ({ error, reset }) => {
-  console.log(error?.message);
+
+interface ErrorProps {
+  error: Error;
+  reset: () => void;
+}
+const ErrorPage = ({ error, reset }: ErrorProps) => {
   return (
     <div className="max-w-[90%] mx-auto my-10 text-center">
       <h1 className="text-center my-4 text-rose-500">{error?.message}</h1>
