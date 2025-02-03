@@ -13,13 +13,13 @@ const MainPage = async () => {
   const res = await fetch("http://localhost:5000/products", {
     next: { revalidate: 60 },
   });
-  const prodtucts = await res.json();
+  const products = await res.json();
  
   return (
     <div className="flex flex-col items-center justify-center mb-8">
       <Hero />
       <div className="grid grid-cols-3 gap-4 max-w-[90%] mx-auto my-10">
-        {prodtucts.slice(0, 3).map((prod: Product) => {
+        {products.slice(0, 3).map((prod: Product) => {
           return (
             <div
               className="border border-slate-400 rounded-lg p-4"
