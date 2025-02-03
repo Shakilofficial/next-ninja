@@ -64,3 +64,5 @@ By the end of this module, you will be able to:
 - Learn how to use dynamic data fetching in Next.js
 - Learn how to use server side rendering in Next.js
 - Learn how to use client side rendering in Next.js
+- Learn how to hnadle default error and loading state in Next.js
+- Learn how to handle dynamic class depends on pathname in Link component in Next.js
