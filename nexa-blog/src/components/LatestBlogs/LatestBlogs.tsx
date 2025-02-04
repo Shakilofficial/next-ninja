@@ -1,7 +1,7 @@
-import LatestBlogCard from "../ui/LatestBlogCard";
-import BlogCard from "../ui/BlogCard";
-import Link from "next/link";
 import { Blog } from "@/types";
+import Link from "next/link";
+import BlogCard from "../ui/BlogCard";
+import LatestBlogCard from "../ui/LatestBlogCard";
 
 const LatestBlogs = ({ blogs }: { blogs: Blog[] }) => {
   return (
