@@ -66,3 +66,40 @@ By the end of this module, you will be able to:
 - Learn how to use client side rendering in Next.js
 - Learn how to hnadle default error and loading state in Next.js
 - Learn how to handle dynamic class depends on pathname in Link component in Next.js
+
+# Module 03 - Build a Blog Application (Nexa Blog)
+
+## Introduction
+
+In this module, we will be building a blog application using Next.js. We will learn how to use Next.js to build a blog application, including the use of Next.js API routes, Next.js image component, and Next.js metadata. We will also learn how to use Redux Tolkit to manage the state of our application. also create Routes handling RESTful APIs. And also include Generating Static Params for dynamic routing and Dynamic Meta Data for SEO using generateMetadata function. We will also learn how to use Tailwind CSS to style our application. We will also learn how to use React components in Next.js.
+
+## Learning Objectives
+
+By the end of this module, you will be able to:
+
+- Understand the basics of Next.js and its features
+- Learn how to use Next.js to build a web application
+- Learn how to use Tailwind CSS to style our application
+- Learn how to use React components in Next.js
+- Learn how to use routing in Next.js
+
+## Prerequisites
+
+Before starting this module, you should have the following:
+
+- Basic knowledge of HTML, CSS, and JavaScript
+- Basic understanding of React and React components
+- Basic understanding of Node.js and NPM
+
+## Module Learning Outcomes
+
+By the end of this module, you will be able to:
+
+- Understand the basics of Next.js and its features
+- Learn how to use Next.js to build a web application
+- Learn how to use Tailwind CSS to style our application
+- Learn how to use React components in Next.js
+- Learn how to use routing in Next.js
+- Learn how to implement redux in Next.js anf fetch data from API
+- Learn how to use Next.js API routes and create RESTful APIs
+- Learn how to generate static params for dynamic routing and dynamic meta data for SEO
